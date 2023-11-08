@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background.jpg</file>
+        <file>clear.png</file>
+        <file>exit.png</file>
+        <file>help.png</file>
+        <file>query.png</file>
+        <file>save.png</file>
+        <file>open device.png</file>
+        <file>write.png</file>
+    </qresource>
+</RCC>
