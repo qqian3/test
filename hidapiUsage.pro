@@ -17,12 +17,14 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    parsedata.cpp
 
 
 HEADERS += \
     mainwindow.h\
-    hidapi.h
+    hidapi.h \
+    parsedata.h
 
 
 FORMS += \
